@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yashpatil/CLionProjects/USACOenv/Competitive_Programming_3/Introduction/Getting_Started_The_Easy_Problems/Super_Easy/Relational_Operators/relationaloperators.cpp
+iostream
+-
+fstream
+-
+

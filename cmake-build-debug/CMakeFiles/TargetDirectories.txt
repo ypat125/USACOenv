@@ -1,0 +1,4 @@
+/Users/yashpatil/CLionProjects/USACOenv/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/yashpatil/CLionProjects/USACOenv/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yashpatil/CLionProjects/USACOenv/cmake-build-debug/CMakeFiles/relationaloperators.dir
+/Users/yashpatil/CLionProjects/USACOenv/cmake-build-debug/CMakeFiles/USACOenv.dir

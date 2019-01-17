@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.12)
+project(USACOenv)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(USACOenv main.cpp)
+add_executable(relationaloperators Competitive_Programming_3/Introduction/Getting_Started_The_Easy_Problems/Super_Easy/Relational_Operators/relationaloperators.cpp)

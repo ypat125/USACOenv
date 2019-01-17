@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/relationaloperators.dir/Competitive_Programming_3/Introduction/Getting_Started_The_Easy_Problems/Super_Easy/Relational_Operators/relationaloperators.cpp.o  -o relationaloperators 
